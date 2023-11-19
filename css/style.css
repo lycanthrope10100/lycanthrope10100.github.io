@@ -1149,23 +1149,23 @@ ul.portfolio-image li .desc{
   transform: translateY(100%);
 }
 
-.facebook{
+.github{
   background: #969696;
   /*padding: 20px 0;*/
 }
-.facebook a:after{
+.github a:after{
   background-color: #24292E;
 }
-.twitter{
+.stackoverflow{
   background: #ABABAB;
 }
-.twitter a:after{
-  background-color: #1DA1F2;
+.stackoverflow a:after{
+  background-color: #EF8236;
 }
-.gplus{
+.linkedin{
   background: #d8d8d8;
 }
-.gplus a:after{
+.linkedin a:after{
   background: #006097;
 }
 
